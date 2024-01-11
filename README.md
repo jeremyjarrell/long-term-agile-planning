@@ -9,4 +9,4 @@ This session was originally delivered at Code Mash 2024.
 
 [What, When, How: The 3 Levels of Strategic Planning (JeremyJarrell.com](https://www.jeremyjarrell.com/jeremy-jarrell/strategic-agile-planning)
 
-[Product Management: Strategy and Vision (Pluralsight)[https://app.pluralsight.com/library/courses/product-management-strategy-vision/table-of-contents]
+[Product Management: Strategy and Vision (Pluralsight)](https://app.pluralsight.com/library/courses/product-management-strategy-vision/table-of-contents)
