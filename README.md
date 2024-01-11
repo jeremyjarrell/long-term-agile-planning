@@ -1,7 +1,6 @@
-# Long Term Agile Planning
-This session was originally delivered at Code Mash 2024.
+![Long Term Agile Planning](header-image.png)
 
-![alt text](header-image.png)
+This session was originally delivered at Code Mash 2024.
 
 ## Resources
 [Vision Statement Template](https://www.prodpad.com/blog/product-vision-template/)
